@@ -1,12 +1,12 @@
 h1 {
-    color:darkblue;
+    color:black
     font-size: 40px;
     font-family: cursive;
 }
 p {
-    color:darkblue;
+    color:black
     font-size: 14px;
 }
 body {
-    background-color: lightskyblue;
+    background-color: beige
 }
