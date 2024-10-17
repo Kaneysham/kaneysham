@@ -1,7 +1,7 @@
 h1 {
     color:black;
     font-size: 40px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:verdana;
 }
 p {
     color:black;
@@ -9,4 +9,7 @@ p {
 }
 body {
     background-color: beige;
+}
+h2 {
+    font-size: 30px;
 }
