@@ -1,6 +1,30 @@
 img {
     float: right;
-}
-body {
+    height: 300px;
+    
+    
+  }
+  body {
     background-color: blanchedalmond;
-}
+  }
+  
+  h1 {
+    font-family: cursive;
+    color: burlywood;
+    font-size: 50px
+  }
+  h3 {
+    color: burlywood;
+    font-size: 25px;
+  }
+  h4 {
+    color: burlywood;
+    font-size: 20px;
+  }
+  p {
+    color: burlywood;
+    font-size: 15px;
+  }
+  ol {
+    color: burlywood
+  }
