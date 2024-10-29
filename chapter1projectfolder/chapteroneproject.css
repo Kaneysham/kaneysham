@@ -4,8 +4,23 @@
 
 .imggallery{
     width: 150px;
-    align-content: center;
+    align-items: center;
     }
+  #imggallery1{
+    order:1;
+  }
+  #imggallery2{
+    order:2;
+  }
+  #imggallery3{
+    order:3;
+  }
+  #imggallery4{
+    order:4;
+  }
+  #imggallery5{
+    order:5;
+  }
   .imgcite1 {
     font-size: 10px;
     text-align: center;
