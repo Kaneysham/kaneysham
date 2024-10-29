@@ -76,18 +76,11 @@
  /* layout for image and information within planning container */
 .panelimg1   {
     width: 600px;
-  display: flex;
-  flex-wrap: nowrap;
- justify-content:flex-start;
-  align-content: center;
+
   order:1;
   }
 .panelimg2   {
   width: 600px;
-  display: flex;
-  flex-wrap: nowrap;
-  align-content: center;
-  justify-content: flex-end;
   order:2;
 }
 
