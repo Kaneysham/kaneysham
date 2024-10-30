@@ -2,25 +2,26 @@
 
 /* layout for comic book cover image gallery */
 
+.gallerypics{
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: space-around;
+}
 .imggallery{
-    width: 150px;
-    align-items: center;
-    }
-  #imggallery1{
-    order:1;
+  width: 150px;
+  height: 150px;
+  display:flex;
+  position: relative;
+  left: 1px;
+  right: 1px;
+  margin-left: auto;
+  margin-right: auto;
+
+  
   }
-  #imggallery2{
-    order:2;
-  }
-  #imggallery3{
-    order:3;
-  }
-  #imggallery4{
-    order:4;
-  }
-  #imggallery5{
-    order:5;
-  }
+
+
   .imgcite1 {
     font-size: 10px;
     text-align: center;
@@ -93,15 +94,16 @@
   
   
   /* layout style for publishing option images */
-  #allpublishimg{
+  .allpublishimg{
     display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
+      align-content: center;
+      align-items: center;
+      justify-content: space-between;
+    }
       
-  }
-  .publishimg1 {
+  
+  #publishimg1 {
     width: 500px;
-    order:1;
   }
   
   .publishimg2 {
