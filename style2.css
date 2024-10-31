@@ -20,4 +20,9 @@ header{
     padding:20px;
     background-color: beige;
 }
+.linkstomywork:hover{
+    background-color: pink;
+    font-style: bold;
+
+}
 
