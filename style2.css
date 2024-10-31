@@ -20,9 +20,33 @@ header{
     padding:20px;
     background-color: beige;
 }
-.linkstomywork:hover{
+.linktomywork1:hover{
     background-color: pink;
     font-style: bold;
 
 }
+.linktomywork2:hover{
+    background-color: pink;
+    font-style: bold;
 
+}
+.linktomywork3:hover{
+    background-color: pink;
+    font-style: bold;
+
+}
+.linktomywork4:hover{
+    background-color: pink;
+    font-style: bold;
+
+}
+.linktomywork5:hover{
+    background-color: pink;
+    font-style: bold;
+
+}
+.mywork {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
