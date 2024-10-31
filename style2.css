@@ -2,7 +2,8 @@ h1 {
     color:black;
     font-size: 40px;
     font-family:cursive;
-    font-weight: bold
+    font-weight: bold;
+    text-align: center;
 }
 p {
     color:black;
@@ -49,4 +50,8 @@ header{
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+.pixelart {
+    display: flex;
+    justify-content: center;
 }
