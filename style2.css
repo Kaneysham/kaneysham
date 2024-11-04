@@ -27,7 +27,6 @@ header{
     flex-wrap: wrap;
     justify-content: center;
     margin: 20px;
-    background-color: plum;
 }
 .linktobakery {
     width: 325px;
@@ -48,7 +47,6 @@ header{
     flex-wrap: wrap;
     justify-content: center;
     margin: 20px;
-    background-color: plum;
 }
 .linktoaurora{
     width: 325px;
@@ -67,7 +65,7 @@ header{
 
 
 
-  
+
 .linktomywork1:hover{
     background-color: pink;
     font-style: bold;
