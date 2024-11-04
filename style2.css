@@ -82,36 +82,24 @@ header{
     transition: transform 0.3s ease-in-out;
     cursor:pointer;
 }
-
-.linktomywork1:hover{
-    background-color: pink;
-    font-style: bold;
-
-}
-.linktomywork2:hover{
-    background-color: pink;
-    font-style: bold;
-
-}
-.linktomywork3:hover{
-    background-color: pink;
-    font-style: bold;
-
-}
-.linktomywork4:hover{
-    background-color: pink;
-    font-style: bold;
-
-}
-.linktomywork5:hover{
-    background-color: pink;
-    font-style: bold;
-
-}
-.mywork {
+.marvelcomics {
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+}
+.marvelcomicslink {
+    width: 325px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+}
+.marvelcomicslink:hover {
+    transform:translateY(-15px);
+    transition: transform 0.3s ease-in-out;
+    cursor:pointer;
 }
 .pixelart {
     display: flex;
