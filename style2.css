@@ -21,6 +21,29 @@ header{
     padding:20px;
     background-color: beige;
 }
+
+.denzelsbakery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+}
+.linktobakery {
+    width: 325px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+}
+.linktobakery:hover {
+    transform:translateY(-15px);
+    transition: transform 0.3s ease-in-out;
+    cursor:pointer;
+  }
+
+
+
 .linktomywork1:hover{
     background-color: pink;
     font-style: bold;
