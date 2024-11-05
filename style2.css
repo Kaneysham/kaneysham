@@ -14,9 +14,9 @@ body {
     background-image: url('https://i.pinimg.com/originals/0b/6d/83/0b6d83022b5326ca71c715e7c1743dfb.jpg');
 }
 h2 {
-    font-size: 35px;
+    font-size: 50px;
     font-family: cursive;
-    color: rgb(160, 115, 160);
+    color: plum;
     
 }
 
@@ -158,4 +158,12 @@ hr {
 }
 .aboutme {
     text-align: center;
+}
+.allofaboutme{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+    background-color: plum;
 }
