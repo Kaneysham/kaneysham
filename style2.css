@@ -22,7 +22,7 @@ header{
     background-color: beige;
 }
 a {
-    color: pink;
+    color: rgb(168, 83, 214);
 }
 .denzelsbakery {
     display: flex;
@@ -58,6 +58,7 @@ a {
     text-align: center;
     border: 2px solid black;
     margin: 10px;
+    background-color: plum;
 }
 .linktoaurora:hover {
     transform:translateY(-15px);
@@ -79,6 +80,7 @@ a {
     text-align: center;
     border: 2px solid black;
     margin: 10px;
+    background-color: plum;
 }
 .cssbakerylink:hover {
     transform:translateY(-15px);
@@ -91,6 +93,9 @@ a {
     justify-content: center;
     margin: 20px;
 }
+.marvelimg {
+    height: 325px;
+}
 .marvelcomicslink {
     width: 325px;
     display: flex;
@@ -98,6 +103,7 @@ a {
     text-align: center;
     border: 2px solid black;
     margin: 10px;
+    background-color: plum;
 }
 .marvelcomicslink:hover {
     transform:translateY(-15px);
@@ -117,6 +123,7 @@ a {
     text-align: center;
     border: 2px solid black;
     margin: 10px;
+    background-color: plum;
 }
 .linktopractice:hover {
     transform:translateY(-15px);
