@@ -121,7 +121,11 @@ header{
     cursor:pointer;
 }
 
-.allmywork {
+.allmywork1 {
+    display: flex;
+    justify-content: space-between;
+}
+.allmywork2 {
     display: flex;
     justify-content: space-between;
 }
