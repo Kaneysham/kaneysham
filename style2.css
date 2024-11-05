@@ -1,6 +1,6 @@
 h1 {
-    color:black;
-    font-size: 40px;
+    color:plum;
+    font-size: 70px;
     font-family:cursive;
     font-weight: bold;
     text-align: center;
@@ -21,7 +21,9 @@ header{
     padding:20px;
     background-color: beige;
 }
-
+a {
+    color: pink;
+}
 .denzelsbakery {
     display: flex;
     flex-wrap: wrap;
@@ -35,6 +37,7 @@ header{
     text-align: center;
     border: 2px solid black;
     margin: 10px;
+    background-color: plum;
 }
 .linktobakery:hover {
     transform:translateY(-15px);
