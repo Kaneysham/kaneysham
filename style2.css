@@ -101,6 +101,30 @@ header{
     transition: transform 0.3s ease-in-out;
     cursor:pointer;
 }
+.practice {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+}
+.linktopractice {
+    width: 325px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+}
+.linktopractice:hover {
+    transform:translateY(-15px);
+    transition: transform 0.3s ease-in-out;
+    cursor:pointer;
+}
+
+.allmywork {
+    display: flex;
+    justify-content: space-between;
+}
 .pixelart {
     display: flex;
     justify-content: center;
