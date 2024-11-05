@@ -15,7 +15,7 @@ body {
 h2 {
     font-size: 35px;
     font-family: cursive;
-    color: plum;
+    color: rgb(160, 115, 160);
     
 }
 
@@ -118,6 +118,9 @@ a {
     justify-content: center;
     margin: 20px;
 }
+.practiceimg {
+    height: 325px;
+}
 .linktopractice {
     width: 325px;
     display: flex;
@@ -144,4 +147,10 @@ a {
 .pixelart {
     display: flex;
     justify-content: center;
+    align-items: center;
+}
+.aboutme {
+    display: flex;
+    align-items: center;
+    text-align: center;
 }
