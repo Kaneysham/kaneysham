@@ -28,6 +28,9 @@ a {
     color: rgb(168, 83, 214);
     font-family: cursive;
 }
+hr {
+    color: blueviolet;
+}
 .denzelsbakery {
     display: flex;
     flex-wrap: wrap;
@@ -153,6 +156,7 @@ a {
 }
 .aboutme {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     text-align: center;
 }
