@@ -141,6 +141,26 @@ hr {
     cursor:pointer;
 }
 
+.spotthedifference {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+}
+.linktospotdifference {
+    width: 325px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+    background-color: plum;
+}
+.linktospotdifference:hover {
+    transform:translateY(-15px);
+    transition: transform 0.3s ease-in-out;
+    cursor:pointer;
+}
 .allmywork1 {
     display: flex;
     justify-content: space-between;
