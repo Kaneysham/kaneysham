@@ -147,6 +147,9 @@ hr {
     justify-content: center;
     margin: 20px;
 }
+.gameimage {
+    height: 325px;
+}
 .linktospotdifference {
     width: 325px;
     display: flex;
