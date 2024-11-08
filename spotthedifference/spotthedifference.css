@@ -121,6 +121,11 @@ body {
   .wavemedium:hover {
     height: 700px;
   }
+  .mediumimages {
+    transition: opacity 0.5 ease;
+  }
+  
+  
   #hardlevel {
     text-align: center;
   }
@@ -148,4 +153,9 @@ body {
   .wavehard:hover {
     height: 700px;
   }
+  .hardimages {
+    transition: opacity 0.5 ease;
+  }
+  
+  
   
