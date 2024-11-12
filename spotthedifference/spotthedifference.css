@@ -25,7 +25,10 @@ body {
   }
   .pixelart {
     width: 150px;
-    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
   #instructions {
   text-align: center;
