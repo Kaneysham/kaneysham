@@ -164,13 +164,27 @@ hr {
     transition: transform 0.3s ease-in-out;
     cursor:pointer;
 }
+.certprep {
+    width: 325px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+    background-color: plum;
+}
+.linktocertprep:hover{
+    transform:translateY(-15px);
+    transition: transform 0.3s ease-in-out;
+    cursor:pointer;
+}
 .allmywork1 {
     display: flex;
-    justify-content: space-between;
+
 }
 .allmywork2 {
     display: flex;
-    justify-content: space-around;
+
 }
 .pixelart {
     display: block;
