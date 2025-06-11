@@ -224,5 +224,6 @@ hr {
 }
 #projects {
     width: auto;
+    justify-content: center;
     overflow: scroll;
 }
