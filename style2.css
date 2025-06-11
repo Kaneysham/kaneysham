@@ -228,3 +228,7 @@ hr {
 .parttwo {
     justify-content: space-between;
 }
+
+.partthree {
+    justify-content: space-around;
+}
