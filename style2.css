@@ -206,6 +206,7 @@ hr {
 .topnav {
   overflow: hidden;
   width: 300px;
+  justify-content: center;
 }
 
 /* Style the links inside the navigation bar */
