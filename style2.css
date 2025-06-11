@@ -206,7 +206,7 @@ hr {
 .topnav {
   background-color: #333;
   overflow: hidden;
-  width: 150px;
+  width: 300px;
 }
 
 /* Style the links inside the navigation bar */
@@ -229,13 +229,4 @@ hr {
 .topnav a.active {
   background-color: #5204aa;
   color: white;
-}
-#about {
-      display: none;
-}
-#projects {
-      display: none;
-}
-#contacts {
-      display: none;
 }
