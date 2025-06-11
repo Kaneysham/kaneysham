@@ -178,14 +178,6 @@ hr {
     transition: transform 0.3s ease-in-out;
     cursor:pointer;
 }
-.allmywork1 {
-    display: flex;
-    align-items: center;
-}
-.allmywork2 {
-    display: flex;
-    align-items: center;
-}
 .pixelart {
     display: block;
     margin-left: auto;
