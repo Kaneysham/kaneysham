@@ -230,3 +230,7 @@ hr {
   background-color: #5204aa;
   color: white;
 }
+#projects {
+    width: 500px;
+    overflow: scroll;
+}
