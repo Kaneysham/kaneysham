@@ -231,6 +231,6 @@ hr {
   color: white;
 }
 #projects {
-    width: 500px;
+    width: auto;
     overflow: scroll;
 }
