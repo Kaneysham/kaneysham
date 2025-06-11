@@ -230,3 +230,12 @@ hr {
   background-color: #5204aa;
   color: white;
 }
+#about {
+      display: none;
+}
+#projects {
+      display: none;
+}
+#contacts {
+      display: none;
+}
