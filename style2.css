@@ -76,7 +76,9 @@ hr {
   cursor:pointer;
 }
 
-
+.firstbakeryimg {
+  width: 325px;
+}
 .cssbakery  {
   display: flex;
   flex-wrap: wrap;
