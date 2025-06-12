@@ -1,199 +1,208 @@
 h1 {
-    color:plum;
-    font-size: 70px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    font-weight: bold;
-    text-align: center;
+  color:plum;
+  font-size: 70px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-align: center;
 }
 p {
-    color:darkmagenta;
-    font-size: 14px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+  color:darkmagenta;
+  font-size: 14px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 body {
-    background-image: url('https://i.pinimg.com/originals/0b/6d/83/0b6d83022b5326ca71c715e7c1743dfb.jpg');
-     background-size: auto;
+  background-image: url('https://i.pinimg.com/originals/0b/6d/83/0b6d83022b5326ca71c715e7c1743dfb.jpg');
+  background-size: auto;
 }
 h2 {
-    font-size: 50px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: plum;
-    
+  font-size: 50px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: plum;
+
 }
 
 header{
-    padding:20px;
-    background-color: beige;
+  padding:20px;
+  background-color: beige;
 }
 a {
-    color: darkmagenta;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+  color: darkmagenta;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 hr {
-    color: blueviolet;
+  color: blueviolet;
 }
 .denzelsbakery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
 }
 .linktobakery {
-    width: 325px;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    border: 2px solid black;
-    margin: 10px;
-    background-color: plum;
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: 2px solid black;
+  margin: 10px;
+  background-color: plum;
 }
 .linktobakery:hover {
-    transform:translateY(-15px);
-    transition: transform 0.3s ease-in-out;
-    cursor:pointer;
-  }
+  transform:translateY(-15px);
+  transition: transform 0.3s ease-in-out;
+  cursor:pointer;
+}
 
 .auroraborealis {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
 }
 .linktoaurora{
-    width: 325px;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    border: 2px solid black;
-    margin: 10px;
-    background-color: plum;
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: 2px solid black;
+  margin: 10px;
+  background-color: plum;
 }
 .linktoaurora:hover {
-    transform:translateY(-15px);
-    transition: transform 0.3s ease-in-out;
-    cursor:pointer;
-  }
+  transform:translateY(-15px);
+  transition: transform 0.3s ease-in-out;
+  cursor:pointer;
+}
 
 
 .cssbakery  {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 20px;
-  }
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
 .cssbakerylink {
-    width: 325px;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    border: 2px solid black;
-    margin: 10px;
-    background-color: plum;
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: 2px solid black;
+  margin: 10px;
+  background-color: plum;
 }
 .cssbakerylink:hover {
-    transform:translateY(-15px);
-    transition: transform 0.3s ease-in-out;
-    cursor:pointer;
+  transform:translateY(-15px);
+  transition: transform 0.3s ease-in-out;
+  cursor:pointer;
 }
 .marvelcomics {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
 }
 .marvelimg {
-    height: 325px;
+  height: 325px;
 }
 .marvelcomicslink {
-    width: 325px;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    border: 2px solid black;
-    margin: 10px;
-    background-color: plum;
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: 2px solid black;
+  margin: 10px;
+  background-color: plum;
 }
 .marvelcomicslink:hover {
-    transform:translateY(-15px);
-    transition: transform 0.3s ease-in-out;
-    cursor:pointer;
+  transform:translateY(-15px);
+  transition: transform 0.3s ease-in-out;
+  cursor:pointer;
 }
 .practice {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
 }
 .practiceimg {
-    height: 325px;
+  height: 325px;
 }
 .linktopractice {
-    width: 325px;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    border: 2px solid black;
-    margin: 10px;
-    background-color: plum;
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: 2px solid black;
+  margin: 10px;
+  background-color: plum;
 }
 .linktopractice:hover {
-    transform:translateY(-15px);
-    transition: transform 0.3s ease-in-out;
-    cursor:pointer;
+  transform:translateY(-15px);
+  transition: transform 0.3s ease-in-out;
+  cursor:pointer;
 }
 
 .spotthedifference {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
 }
 .gameimage {
-    height: 325px;
+  height: 325px;
 }
 .linktospotdifference {
-    width: 325px;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    border: 2px solid black;
-    margin: 10px;
-    background-color: plum;
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: 2px solid black;
+  margin: 10px;
+  background-color: plum;
 }
 .linktospotdifference:hover {
-    transform:translateY(-15px);
-    transition: transform 0.3s ease-in-out;
-    cursor:pointer;
+  transform:translateY(-15px);
+  transition: transform 0.3s ease-in-out;
+  cursor:pointer;
 }
 .certprep {
-    width: 325px;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    border: 2px solid black;
-    margin: 10px;
-    background-color: plum;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+.linktocertprep {
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: 2px solid black;
+  margin: 10px;
+  background-color: plum;
 }
 .linktocertprep:hover{
-    transform:translateY(-15px);
-    transition: transform 0.3s ease-in-out;
-    cursor:pointer;
+  transform:translateY(-15px);
+  transition: transform 0.3s ease-in-out;
+  cursor:pointer;
 }
+.certprepimg {
+  width: 325px;
+}
+
 .pixelart {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
 }
 .aboutme {
-    text-align: center;
+  text-align: center;
 }
 .allofaboutme{
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-
-    margin: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 10px;
 
 }
 .topnav {
@@ -221,15 +230,4 @@ hr {
 .topnav a.active {
   background-color: #5204aa;
   color: white;
-}
-
-.partone {
-    justify-content: space-around;
-}
-.parttwo {
-    justify-content: space-between;
-}
-
-.partthree {
-    justify-content: space-around;
 }
