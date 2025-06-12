@@ -193,6 +193,53 @@ hr {
   width: 325px;
 }
 
+.gg {
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+.linktogg {
+    width: 325px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: 2px solid black;
+  margin: 10px;
+  background-color: plum;
+}
+.linktogg:hover {
+    transform:translateY(-15px);
+  transition: transform 0.3s ease-in-out;
+  cursor:pointer;
+}
+.ggimg {
+  width: 325px;
+}
+
+.sunandmoon {
+      display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+.linktosunandmoon {
+      width: 325px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: 2px solid black;
+  margin: 10px;
+  background-color: plum;
+}
+.linktosunandmoon:hover {
+      transform:translateY(-15px);
+  transition: transform 0.3s ease-in-out;
+  cursor:pointer;
+}
+.sunandmoonimg {
+  width: 325px;
+}
 .pixelart {
   display: block;
   margin-left: auto;
