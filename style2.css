@@ -1,23 +1,23 @@
 h1 {
     color:plum;
     font-size: 70px;
-    font-family:cursive;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     text-align: center;
 }
 p {
     color:darkmagenta;
     font-size: 14px;
-    font-family: cursive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 body {
     background-image: url('https://i.pinimg.com/originals/0b/6d/83/0b6d83022b5326ca71c715e7c1743dfb.jpg');
-      background-repeat: no-repeat;
+      background-repeat:inherit;
      background-size: auto;
 }
 h2 {
     font-size: 50px;
-    font-family: cursive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: plum;
     
 }
@@ -28,7 +28,7 @@ header{
 }
 a {
     color: darkmagenta;
-    font-family: cursive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 hr {
     color: blueviolet;
