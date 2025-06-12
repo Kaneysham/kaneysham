@@ -7,7 +7,6 @@ h1 {
 }
 p {
   color:darkmagenta;
-
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 body {
@@ -18,9 +17,10 @@ h2 {
   font-size: 50px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: plum;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: rgb(85, 48, 185)
 
+}
+hr {
+  color: #5204aa;
 }
 
 header{
