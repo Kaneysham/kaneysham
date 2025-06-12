@@ -18,6 +18,8 @@ h2 {
   font-size: 50px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: plum;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black
 
 }
 
