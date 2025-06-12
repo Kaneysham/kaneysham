@@ -7,7 +7,7 @@ h1 {
 }
 p {
   color:darkmagenta;
-  font-size: 30px;
+
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 body {
@@ -199,6 +199,7 @@ hr {
 }
 .aboutme {
   text-align: center;
+    font-size: 30px;
 }
 .allofaboutme{
   display: flex;
@@ -232,4 +233,7 @@ hr {
 .topnav a.active {
   background-color: #5204aa;
   color: white;
+}
+.contacttext {
+    font-size: 30px;
 }
